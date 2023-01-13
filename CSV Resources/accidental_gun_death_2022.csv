@@ -1,0 +1,449 @@
+Incident ID,Incident Date,State,City Or County,Address,# Killed,# Injured,Operations
+2204803,1-Jan-22,Texas,Mcallen,N/A,1,0,N/A
+2202944,2-Jan-22,Louisiana,Shreveport,100 block of E Bert Kouns Industrial Loop,1,0,N/A
+2489406,3-Jan-22,Arkansas,Jonesboro,1600 block of Ethel St,1,0,N/A
+2206763,3-Jan-22,Mississippi,Dixon,N/A,1,0,N/A
+2205692,3-Jan-22,Mississippi,Philadelphia,Rd 406,1,0,N/A
+2208974,7-Jan-22,Arizona,Tempe,W Grove Pkwy,1,0,N/A
+2206857,7-Jan-22,Louisiana,New Orleans,6050 Chef Menteur Hwy,1,0,N/A
+2206517,7-Jan-22,North Carolina,Mocksville,175 Crabtree Rd,1,0,N/A
+2208442,8-Jan-22,Kentucky,West Liberty,261 Callahan Rd,1,0,N/A
+2209185,11-Jan-22,Alabama,Bessemer (Hueytown),1400 block of 26th Ave,1,0,N/A
+2210511,12-Jan-22,Tennessee,Memphis,2115 Clayton Ave,1,0,N/A
+2210478,12-Jan-22,Georgia,Atlanta,833 Harwell Rd NW,1,0,N/A
+2210266,12-Jan-22,Florida,Panama City (Callaway),5000 block of E Seventh St,1,0,N/A
+2209838,12-Jan-22,Arizona,Phoenix,19th Ave and Thunderbird Rd,1,0,N/A
+2210422,13-Jan-22,Texas,Lubbock,4909 9th St,1,0,N/A
+2482435,15-Jan-22,Oklahoma,Oklahoma City,717 Santa Rosa Dr,1,0,N/A
+2212218,15-Jan-22,Wisconsin,Milwaukee,1803 W Highland Ave,1,0,N/A
+2353802,17-Jan-22,Ohio,Cincinnati (Arlington Heights),400 block of Olden Ave,1,0,N/A
+2214531,17-Jan-22,Missouri,Columbia,5400 block of Irma Dr,1,0,N/A
+2221493,20-Jan-22,Missouri,Saint Louis (Berkeley),4000 block of McKibbon Rd,1,1,N/A
+2217125,20-Jan-22,Tennessee,Nashville,W H Davis Dr,1,0,N/A
+2220645,25-Jan-22,Iowa,Ankeny,1100 block of SW 28th St,1,0,N/A
+2221152,26-Jan-22,Maryland,Oxon Hill,4900 block of Glassmanor Dr,1,0,N/A
+2221488,27-Jan-22,District of Columbia,Washington,4400 block of E St SE,1,0,N/A
+2221352,27-Jan-22,North Carolina,Benson,123 W Main St,1,0,N/A
+2223433,29-Jan-22,Washington,Battle Ground,22510 NE 84th Ave,1,0,N/A
+2223068,29-Jan-22,Alabama,Valley (Langdale),59th St,1,0,N/A
+2222988,29-Jan-22,Louisiana,Westwego (Bridge City),900 block of Stillwell Ln,1,0,N/A
+2253936,30-Jan-22,Florida,Vero Beach,N/A,1,0,N/A
+2223090,30-Jan-22,Texas,San Antonio,3536 West Ave,0,1,N/A
+2223936,31-Jan-22,Utah,Echo,N/A,1,0,N/A
+2225058,1-Feb-22,Michigan,Detroit,9924 Wyoming Ave,2,0,N/A
+2224808,1-Feb-22,Wisconsin,Milwaukee,3000 block of N 12th St,1,0,N/A
+2224493,1-Feb-22,Washington,Everett,10710 Evergreen Way,1,0,N/A
+2224487,1-Feb-22,Illinois,Chicago,217 E 35th St,1,1,N/A
+2224250,1-Feb-22,Georgia,Columbus,4200 block of Green Ridge Dr,1,0,N/A
+2226136,2-Feb-22,Mississippi,Jackson,Barnes St,1,0,N/A
+2225505,2-Feb-22,Louisiana,Baton Rouge,5958 Cadillac St,1,0,N/A
+2226545,3-Feb-22,Texas,Houston,12212 Tidwell Rd,1,0,N/A
+2226204,3-Feb-22,Texas,San Antonio,1514 Upland Rd,1,0,N/A
+2226010,3-Feb-22,Georgia,Griffin,1110 W Poplar St,1,0,N/A
+2227028,4-Feb-22,Indiana,South Bend,1300 block of Elwood Ave,1,0,N/A
+2230735,5-Feb-22,Kansas,Wichita,1200 block of E Alta St,1,0,N/A
+2227615,5-Feb-22,Texas,Port Arthur,1100 block of 8th Ave,1,0,N/A
+2230426,7-Feb-22,Indiana,Richmond,200 block of S 23rd St,1,0,N/A
+2228803,7-Feb-22,Texas,Brackettville,63 McClernand Rd,1,0,N/A
+2230752,8-Feb-22,Oregon,Wolf Creek,2000 block of Placer Rd,2,0,N/A
+2230367,8-Feb-22,Texas,Garland,300 block of E Vista Dr,1,0,N/A
+2229726,8-Feb-22,Alabama,Tuscaloosa,3300 block of 6th St,1,0,N/A
+2231225,9-Feb-22,Alabama,Demopolis,1991 Broadway St,1,0,N/A
+2230893,9-Feb-22,District of Columbia,Washington,2300 block of Good Hope Rd SE,1,0,N/A
+2230809,9-Feb-22,District of Columbia,Washington,600 block of Division Ave NE,1,0,N/A
+2232526,12-Feb-22,Michigan,Detroit,4600 block of Chatsworth St,1,0,N/A
+2272168,13-Feb-22,Nevada,Pahrump,N/A,1,0,N/A
+2237539,13-Feb-22,Mississippi,Jackson,4580 Clinton Blvd,1,0,N/A
+2233298,13-Feb-22,Rhode Island,Johnston,Cedar St,1,0,N/A
+2233135,13-Feb-22,North Carolina,Siler City,Jessie Bridges Rd,1,0,N/A
+2234451,14-Feb-22,Alabama,Bessemer,300 block of 30th St S,1,0,N/A
+2234293,14-Feb-22,Texas,Houston,2900 Woodridge Dr,1,0,N/A
+2236276,16-Feb-22,Arizona,Sierra Vista,4000 block of Loma Loop,1,0,N/A
+2236737,17-Feb-22,California,Norwalk,12100 block of Foster Rd,1,1,N/A
+2239050,19-Feb-22,Ohio,Lima,1300 block of W Wayne St,1,0,N/A
+2237971,19-Feb-22,Texas,Robstown,900 block of Mynier St,1,0,N/A
+2379620,21-Feb-22,Texas,San Angelo,1700 block of N Magdalen St,1,0,N/A
+2239005,21-Feb-22,Texas,San Antonio,Blanco Rd and W Mariposa Dr,2,1,N/A
+2240997,23-Feb-22,Georgia,Atlanta,1989 Cheshire Bridge Rd NE,1,0,N/A
+2244627,24-Feb-22,Georgia,Statesboro,211 Lanier Dr,1,0,N/A
+2241851,24-Feb-22,Georgia,Milledgeville,N/A,1,0,N/A
+2241362,24-Feb-22,Indiana,Peru,2700 block of Capehart Ave,1,0,N/A
+2243381,27-Feb-22,Georgia,Lithonia,3045 Panola Rd,1,0,N/A
+2243899,28-Feb-22,Pennsylvania,Coatesville,367 E Chestnut St,1,0,N/A
+2245905,1-Mar-22,Arizona,Phoenix,7th Ave and Alta Vista Rd,1,0,N/A
+2245739,2-Mar-22,Texas,Austin,7402 Lazy Creek Dr,1,0,N/A
+2248782,4-Mar-22,New York,Buffalo,50 block of Fisher St,1,0,N/A
+2247352,5-Mar-22,Texas,Waco,727 Austin Ave,1,1,N/A
+2250600,9-Mar-22,Alabama,Clanton,600 block of Co Rd 416,1,0,N/A
+2251565,10-Mar-22,Nevada,Las Vegas,9300 block of Gilcrease Ave,1,0,N/A
+2251037,10-Mar-22,Tennessee,Soddy Daisy,Wynn Ln and Daisy Dallas Rd,1,0,N/A
+2254406,11-Mar-22,Missouri,Butler,N/A,1,0,N/A
+2251822,11-Mar-22,Tennessee,Memphis,1740 Century Center Cove,1,0,N/A
+2253591,12-Mar-22,Illinois,Springfield,700 block of W Monroe St,1,0,N/A
+2253196,12-Mar-22,Illinois,Dolton,1000 Sibley Blvd,1,0,N/A
+2252761,12-Mar-22,Nebraska,Omaha (Millard),6516 S 161st Ave,1,0,N/A
+2252422,12-Mar-22,Louisiana,Baton Rouge,6100 block of Siegen Ln,1,0,N/A
+2252244,12-Mar-22,Pennsylvania,Philadelphia,300 block of E Ashmead St,1,0,N/A
+2252105,12-Mar-22,Alaska,North Pole,627 Bottles St,1,0,N/A
+2254381,14-Mar-22,Tennessee,Ripley,College St and Maple Ave,1,0,N/A
+2254521,15-Mar-22,Texas,Lubbock,3600 block of Lehigh St,1,0,N/A
+2256026,17-Mar-22,Texas,San Angelo,900 block of Crenshaw St,1,0,N/A
+2258607,18-Mar-22,Ohio,Fremont,1212 1/2 Sycamore St,1,0,N/A
+2257972,18-Mar-22,California,Santa Rosa,616 Mendocino Ave,1,0,N/A
+2258733,20-Mar-22,Louisiana,New Orleans,701 Bourbon St,1,0,N/A
+2260829,22-Mar-22,Ohio,Cleveland,4000 block of W 49th St,1,0,N/A
+2261209,23-Mar-22,Tennessee,Talbott,414 English Dr,1,0,N/A
+2262737,24-Mar-22,Minnesota,Minneapolis,3900 block of 3rd Ave NE,1,0,N/A
+2262573,24-Mar-22,Ohio,Akron,Dayton Pl and Dayton St,1,0,N/A
+2263513,25-Mar-22,Texas,Port Arthur,1600 block of Main Ave,1,0,N/A
+2262881,25-Mar-22,Missouri,Saint Louis,1023 Spruce St,2,0,N/A
+2265089,27-Mar-22,Tennessee,Memphis,1265 Wesley Dr,1,0,N/A
+2265633,28-Mar-22,Georgia,Atlanta,1496 Bouldercrest Rd,1,0,N/A
+2264686,28-Mar-22,Texas,Dallas,9500 block of Timberleaf Dr,1,0,N/A
+2266832,29-Mar-22,Missouri,Saint Louis,5600 block of Summit Place,1,0,N/A
+2267050,31-Mar-22,Texas,Houston,6501 Chimney Rock Rd,1,0,N/A
+2278822,1-Apr-22,Washington,Sedro Woolley,N/A,1,0,N/A
+2268578,1-Apr-22,Louisiana,Shreveport,2800 block of Morningside Dr,1,1,N/A
+2271796,3-Apr-22,Arizona,Chino Valley,1400 block of Granite Creek Ln,1,0,N/A
+2271187,3-Apr-22,Florida,Belleview,4900 SE 50th Ave,1,0,N/A
+2270300,3-Apr-22,Florida,Jacksonville,Crimson Leaf Ln,1,0,N/A
+2271766,5-Apr-22,Mississippi,Bay Saint Louis (Bayside Park),E Madison St,1,0,N/A
+2271185,5-Apr-22,Pennsylvania,Chester,916 Kerlin St,1,0,N/A
+2272836,6-Apr-22,Tennessee,Nashville,Robwood Dr,1,0,N/A
+2271885,6-Apr-22,Texas,Burkburnett,600 block of Glendale St,1,0,N/A
+2274219,7-Apr-22,Oklahoma,Kingfisher,1000 block of 9th St,1,0,N/A
+2273983,7-Apr-22,Texas,Houston,3600 Rosewood St,1,0,N/A
+2273462,7-Apr-22,Texas,Houston,3600 block of Rosewood St,1,0,N/A
+2274050,8-Apr-22,Ohio,Vinton,26000 block of Price Strong Rd,1,0,N/A
+2273835,8-Apr-22,Georgia,Stone Mountain,3800 block of Wood Path Dr,1,0,N/A
+2275526,9-Apr-22,Montana,Billings,500 block of S 33rd St,1,0,N/A
+2275341,9-Apr-22,Texas,Waco,1500 block of N 11th St,1,0,N/A
+2278321,10-Apr-22,Idaho,Rathdrum,7700 block of Wright St,1,0,N/A
+2277765,10-Apr-22,Texas,El Paso,14400 block of Montwood Dr,1,0,N/A
+2276006,10-Apr-22,Colorado,Fort Collins,1200 block of E Lincoln Ave,1,0,N/A
+2275528,10-Apr-22,Georgia,Columbus,2700 block of Norris Rd,1,0,N/A
+2275952,11-Apr-22,Alabama,Opelika,300 block of Wittel Ave,1,0,N/A
+2278610,12-Apr-22,North Carolina,Albemarle,506 S First St,1,0,N/A
+2278012,12-Apr-22,Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,N/A
+2276842,12-Apr-22,New York,Bronx,Sheridan Ave and McClellan St,1,0,N/A
+2278104,13-Apr-22,Nevada,Henderson,103 Sicily Hills Ct,1,0,N/A
+2277989,13-Apr-22,Texas,Houston,2400 block of Milby St,1,1,N/A
+2280916,15-Apr-22,Ohio,Cleveland (South Euclid),Wrenford Rd and Bexley Blvd,1,0,N/A
+2280526,15-Apr-22,Minnesota,Minneapolis,341 Hennepin Ave,1,0,N/A
+2281993,16-Apr-22,New York,Corona (Queens),117-09 Guy R Brewer Blvd,1,0,N/A
+2281849,17-Apr-22,Colorado,Denver,1700 block of S Pecos St,1,0,N/A
+2282234,18-Apr-22,Minnesota,Lynd,N/A,1,0,N/A
+2283611,19-Apr-22,Indiana,Evansville,2500 block of W Virginia St,1,0,N/A
+2283436,19-Apr-22,Texas,Round Rock,1600 block of Gattis School Rd,1,2,N/A
+2285738,23-Apr-22,Louisiana,Lafayette,1300 block of NE Evangeline Thwy,1,0,N/A
+2285521,23-Apr-22,Texas,Houston,3525 S Sam Houston Pkwy E,1,0,N/A
+2286385,24-Apr-22,South Carolina,Scranton,396 S Glendale School Rd,1,0,N/A
+2288933,26-Apr-22,Minnesota,Lake Lillian,10900 block of SE 165th Ave,1,0,N/A
+2288433,26-Apr-22,Louisiana,New Orleans,400 block of Burgundy St,1,0,N/A
+2290628,28-Apr-22,Minnesota,Minneapolis,2200 block of N James Ave,1,0,N/A
+2291798,30-Apr-22,Indiana,South Bend,1000 block of Woodbine Way,1,0,N/A
+2293282,1-May-22,Nebraska,Hamilton (county),N/A,1,0,N/A
+2291903,1-May-22,Louisiana,Shreveport,Mitchell Ln and Fairfield Ave,1,0,N/A
+2293685,2-May-22,Arkansas,Sherwood,N/A,1,0,N/A
+2292748,2-May-22,Texas,Katy,22300 block of Guston Hall Ln,1,0,N/A
+2379684,3-May-22,Texas,Porter,21000 block of Rio Valley Ct,1,0,N/A
+2294003,3-May-22,Georgia,Valdosta,1000 block of N Lee St,1,0,N/A
+2293216,3-May-22,Florida,Pembroke Pines,13600 block of NW 4th St,1,0,N/A
+2293994,4-May-22,New York,Brooklyn,1550 Sterling Pl,1,0,N/A
+2296002,5-May-22,Alabama,Dutton,AL-40,1,0,N/A
+2295738,5-May-22,Texas,Dallas,2500 block of Fatima Ave,1,0,N/A
+2295052,5-May-22,Ohio,Columbus,1899 Oakland Park Ave,1,0,N/A
+2296058,6-May-22,Washington,Pullman,1455 NE Brandi Way,1,0,N/A
+2301979,7-May-22,Texas,Trent,N/A,1,0,N/A
+2297952,8-May-22,North Carolina,Rocky Mount,Meadowbrook Rd and Springfield Rd,1,0,N/A
+2297984,9-May-22,Tennessee,Johnson City (Gray),Bobby Hicks Hwy and Kingsport Hwy,1,0,N/A
+2300193,11-May-22,Texas,Waco,3501 Alta Vista Dr,1,0,N/A
+2300812,12-May-22,North Carolina,Statesville,200 block of E Front St,1,0,N/A
+2301663,13-May-22,Arizona,Phoenix,47th Ave and Thomas Rd,1,0,N/A
+2364342,14-May-22,Ohio,Uhrichsville,Feed Springs Rd,1,0,N/A
+2303515,15-May-22,Wisconsin,Blue Mounds,10840 Blue Mountain Ave,1,0,N/A
+2303474,15-May-22,Colorado,Commerce City,1800 block of Jasper St,1,0,N/A
+2304173,16-May-22,Iowa,Ankeny,NE 5th St and NE Delaware Ave,1,0,N/A
+2303670,16-May-22,New York,Bronx,995 Westchester Ave,1,0,N/A
+2309708,17-May-22,Arizona,Phoenix,E Moreland St and N 11th St,1,0,N/A
+2305630,17-May-22,Delaware,Georgetown,22963 Deep Branch Rd,1,0,N/A
+2305610,18-May-22,Louisiana,Baton Rouge,St. Gerard Ave,1,0,N/A
+2305354,18-May-22,Ohio,Bucyrus,627 W Mansfield St,1,0,N/A
+2307608,20-May-22,North Carolina,Roanoke Rapids,100 block of Delta Dr,1,0,N/A
+2307218,20-May-22,Arizona,Tempe,Mill Ave and Apache Blvd,1,0,N/A
+2308610,21-May-22,Utah,Salt Lake City (West Valley City),3100 S 4800 W,1,0,N/A
+2308304,21-May-22,Colorado,Colorado Springs,3040 Mallard Dr,1,0,N/A
+2310152,22-May-22,Arizona,Phoenix,N 71st Ave and Thomas Rd,1,0,N/A
+2314313,23-May-22,Georgia,Moultrie,600 Block of Third St SW,1,0,N/A
+2313112,25-May-22,West Virginia,Huntington,1600 block of Charleston Ave,1,0,N/A
+2312649,25-May-22,Oklahoma,Enid,600 block of W Cherokee Ave,1,0,N/A
+2322579,26-May-22,Florida,Orlando,Tobie Ct,1,0,N/A
+2313469,26-May-22,Washington,Spanaway,17410 Pacific Ave S,1,0,N/A
+2312692,26-May-22,Indiana,Indianapolis,3200 block of Laurel St,1,0,N/A
+2315205,28-May-22,Michigan,Grand Rapids,800 block of Alpine Ave NW,1,0,N/A
+2330073,31-May-22,Texas,Laredo (El Cenizo),400 block of Holguin,1,0,N/A
+2318085,31-May-22,Ohio,Cleveland,3700 block of E 151st St,1,0,N/A
+2318628,1-Jun-22,Alabama,Mobile,100 block of Michael Donald Ave,1,0,N/A
+2321704,4-Jun-22,Louisiana,Des Allemands,WPA Rd,1,0,N/A
+2321188,4-Jun-22,Michigan,Detroit,20290 block of Goulburn Ave,1,0,N/A
+2326067,5-Jun-22,North Carolina,Salisbury,100 block of Clancy St,1,0,N/A
+2322940,5-Jun-22,South Carolina,Mount Croghan,Airport Rd,1,0,N/A
+2322582,6-Jun-22,Ohio,Cleveland,1100 block of E 77th St,1,0,N/A
+2324518,7-Jun-22,Texas,Houston,6000 block of Skyline Dr,1,1,N/A
+2325947,8-Jun-22,Ohio,Dayton,700 block of Goodlow Ave,1,0,N/A
+2325298,8-Jun-22,Texas,Beaumont,400 block of E Lucas Dr,1,0,N/A
+2325901,9-Jun-22,Ohio,Cincinnati (Mount Washington),1722 Beacon St,1,0,N/A
+2326674,10-Jun-22,Texas,Houston,14335 Ella Blvd,2,0,N/A
+2329012,11-Jun-22,Alabama,Fairhope,Twin Beech Rd,1,0,N/A
+2328249,11-Jun-22,Florida,Pembroke Pines,SW 182nd Way,1,0,N/A
+2330532,12-Jun-22,Tennessee,Chattanooga,2709 Citico Ave,1,1,N/A
+2330189,13-Jun-22,Wisconsin,Milwaukee,8120 W Villard Ave,1,0,N/A
+2330527,14-Jun-22,South Carolina,Greer,Werninger Ct,1,0,N/A
+2332922,15-Jun-22,Mississippi,Diberville,11059 Lamey Bridge Rd,1,0,N/A
+2332525,15-Jun-22,Texas,Dallas,3000 block of Kiestridge Dr,1,0,N/A
+2338717,19-Jun-22,New Jersey,Freehold,20 block of McDermott St,1,0,N/A
+2335187,19-Jun-22,District of Columbia,Washington,4400 block of 3rd St SE,1,0,N/A
+2337574,22-Jun-22,Tennessee,Germantown,2900 block of S Germantown Rd,1,0,N/A
+2337547,22-Jun-22,Louisiana,New Orleans,8600 block of Apple St,1,0,N/A
+2339505,23-Jun-22,Michigan,Muskegon,2000 block of Dowd St,1,0,N/A
+2476380,24-Jun-22,South Carolina,Hartsville,Hunt Dr,1,0,N/A
+2340309,25-Jun-22,North Carolina,Charlotte,7100 block of Wallace Rd,1,1,N/A
+2341881,26-Jun-22,West Virginia,Gallipolis Ferry,Wood School Rd,1,0,N/A
+2341383,26-Jun-22,Florida,Pensacola,3114 Doctor MLK Jr Dr,1,1,N/A
+2340972,26-Jun-22,Texas,Dallas,3500 block of Munger Ave,1,0,N/A
+2340803,26-Jun-22,Missouri,House Springs,3500 block of W Fork Dr,1,0,N/A
+2342174,27-Jun-22,Kentucky,Louisville,4700 block of E Pages Ln,1,0,N/A
+2343957,28-Jun-22,Texas,Fort Worth,100 block of Woodie Way,1,0,N/A
+2345108,30-Jun-22,Missouri,Saint Louis,10400 block of Olney Dr,1,0,N/A
+2346998,1-Jul-22,North Carolina,Greensboro,5800 block of Sycamore Glen Rd,1,0,N/A
+2346512,1-Jul-22,Pennsylvania,Upper Darby,6906 Ruskin Ln,1,0,N/A
+2345628,1-Jul-22,Wisconsin,Milwaukee,1134 N 20th St,1,0,N/A
+2351047,2-Jul-22,Virginia,Amelia Court House,4000 block of Richmond Rd,1,0,N/A
+2346865,2-Jul-22,Virginia,Petersburg,120 Perry St,1,2,N/A
+2353810,5-Jul-22,Texas,Garland,1700 block of Apollo Rd,1,0,N/A
+2351169,5-Jul-22,Ohio,Akron,1600 block of Summit Lake Blvd,1,0,N/A
+2351033,5-Jul-22,Ohio,Columbus,5300 block of Shiloh Dr,1,0,N/A
+2353218,6-Jul-22,Georgia,Conyers,1996 Centennial Olympic Pkwy NE,1,0,N/A
+2360404,7-Jul-22,Tennessee,Knoxville,2612 Gaston Ave,1,0,N/A
+2355667,8-Jul-22,North Carolina,Graham,1013 Townbranch Rd,1,0,N/A
+2354749,8-Jul-22,Louisiana,Baton Rouge,7400 block of Prescott Rd,1,0,N/A
+2356147,10-Jul-22,Alabama,Montgomery,3300 block of Fountain Ln,1,0,N/A
+2355865,10-Jul-22,Tennessee,Memphis,3300 block of Brockcrest Cove,1,0,N/A
+2355496,10-Jul-22,Michigan,Detroit,250 Riverfront Dr,1,0,N/A
+2358335,11-Jul-22,Oklahoma,Guthrie,E Co Rd 76 and N Westminster Rd,1,0,N/A
+2359835,14-Jul-22,Arkansas,Pine Bluff,27113 Shannon Valley Rd,1,0,N/A
+2361217,15-Jul-22,Colorado,Denver,1313 Xenia St,1,0,N/A
+2360449,15-Jul-22,Wisconsin,Milwaukee,N 13th St and W Ring St,1,0,N/A
+2364633,17-Jul-22,Indiana,Kouts,N/A,1,0,N/A
+2377401,18-Jul-22,Florida,Lehigh Acres,537 Oakfield Ave,1,0,N/A
+2364685,19-Jul-22,Florida,Bradenton,14th St E and 9th Ave E,1,0,N/A
+2364234,19-Jul-22,Michigan,Detroit,Bramell St and Elmira St,1,0,N/A
+2363850,19-Jul-22,Missouri,Rogersville,4500 block of S Farm Rd 223,1,0,N/A
+2366254,21-Jul-22,South Carolina,North Charleston,Pinehurst St and N Oakridge Cir,1,0,N/A
+2366931,22-Jul-22,Florida,Saint Petersburg,5800 Lynn Lake Dr S,1,0,N/A
+2369189,24-Jul-22,Michigan,Niles,3100 block of Detroit Rd,1,0,N/A
+2370544,25-Jul-22,Washington,Ellensburg,Yew St,1,0,N/A
+2371338,26-Jul-22,South Carolina,Johns Island,Jules St,1,0,N/A
+2370835,26-Jul-22,Illinois,Chicago,2400 block of W Marquette Rd,1,0,N/A
+2370647,26-Jul-22,Indiana,Muncie,2810 S Monroe St,1,0,N/A
+2381631,28-Jul-22,Pennsylvania,Tyrone,300 block of W 15th St,1,0,N/A
+2373675,28-Jul-22,Idaho,Caldwell,5100 block of Danville St,1,0,N/A
+2372813,28-Jul-22,Florida,Casselberry,800 block of Paddock Way,1,0,N/A
+2372284,28-Jul-22,Texas,San Antonio,2005 Harry Wurzbach Rd,1,0,N/A
+2374980,30-Jul-22,Texas,Dallas,2140 Medical District,1,1,N/A
+2376926,1-Aug-22,Ohio,Dayton,635 Yale Ave,1,0,N/A
+2376918,1-Aug-22,Arizona,Phoenix,40th Ave and Pollack St,1,0,N/A
+2376246,1-Aug-22,West Virginia,Charleston,510 Wyoming St,1,0,N/A
+2378733,2-Aug-22,Maryland,Oxon Hill,5500 block of Livingston Terrace,1,0,N/A
+2377523,2-Aug-22,Wisconsin,Racine,800 block of Yout St,1,0,N/A
+2377481,3-Aug-22,New Mexico,Clovis,1000 N Martin Luther King Jr Blvd,1,0,N/A
+2378923,4-Aug-22,District of Columbia,Washington,1800 Good Hope Rd,1,0,N/A
+2382588,6-Aug-22,Alabama,Birmingham (Forestdale),2400 block of Freemont Ave,1,0,N/A
+2382461,6-Aug-22,Mississippi,Macon,East St,1,0,N/A
+2381339,6-Aug-22,Texas,Arlington,800 block of E Sanford St,1,0,N/A
+2381104,6-Aug-22,Maryland,Baltimore,600 block of Linnard St,1,0,N/A
+2383853,7-Aug-22,Colorado,Monte Vista,300 block of Monroe St,1,0,N/A
+2381419,7-Aug-22,Texas,El Paso,3700 block of N Zaragoza Rd,1,0,N/A
+2381412,7-Aug-22,Georgia,Atlanta,I-85 N and N Druid Hills Rd,1,0,N/A
+2381393,7-Aug-22,Minnesota,Minneapolis,95 S 10th St,1,0,N/A
+2386592,8-Aug-22,New Jersey,Sicklerville,Gable Ct,1,0,N/A
+2382854,8-Aug-22,Texas,Lometa,100 block of Pvt Rd 2525,1,0,N/A
+2382624,8-Aug-22,New York,Rochester,Pennsylvania Ave and 4th St,1,0,N/A
+2384523,9-Aug-22,Texas,Granbury,100 block of Abbey Park Ct,1,0,N/A
+2384914,10-Aug-22,Wisconsin,Milwaukee,N 26th St and W Kilbourn Ave,1,0,N/A
+2384894,10-Aug-22,Georgia,Atlanta,1368 Lakewood Ave SE,1,0,N/A
+2384050,10-Aug-22,Virginia,Portsmouth,2800 block of Deep Creek Blvd,1,0,N/A
+2386529,12-Aug-22,North Dakota,Williston,N/A,1,0,N/A
+2386019,12-Aug-22,Arkansas,Helena,600 block of Poplar St,1,0,N/A
+2386993,13-Aug-22,Florida,Saint Petersburg,12th Ave S and 43rd St S,1,0,N/A
+2388581,14-Aug-22,Oklahoma,Tulsa,1950 S Garnett Rd,1,0,N/A
+2388749,15-Aug-22,Tennessee,Smyrna,110 Sam Ridley Pkwy E,1,0,N/A
+2389342,16-Aug-22,Delaware,Wilmington,600 block of N Washington St,1,1,N/A
+2389003,16-Aug-22,Florida,Daytona Beach,315 Glenview Blvd,1,0,N/A
+2396611,17-Aug-22,Indiana,Crown Point,3885 Brookside Dr,1,0,N/A
+2392036,17-Aug-22,Pennsylvania,Chester,3900 block of Gideon Rd,1,0,N/A
+2391857,18-Aug-22,Maryland,Lanham,MD-704 and Business Pkwy,1,1,N/A
+2396019,19-Aug-22,California,Tulare,Cottonwood St and Buttonwood Ave,1,0,N/A
+2392690,19-Aug-22,Mississippi,Picayune,N/A,1,0,N/A
+2395435,20-Aug-22,Florida,Bushnell,2550 Co Rd 673,1,0,N/A
+2395409,21-Aug-22,Ohio,Toronto,517 W Fernwood Dr,1,0,N/A
+2395235,21-Aug-22,California,Fresno,327 E Fir Ave,1,0,N/A
+2398474,22-Aug-22,Michigan,Detroit,19700 block of Oakfield St,1,0,N/A
+2395161,22-Aug-22,Michigan,Detroit,Oakfield Ave and St Martins Ave,1,0,N/A
+2394971,22-Aug-22,Tennessee,Antioch,200 block of Benzing Rd,1,0,N/A
+2394403,22-Aug-22,Georgia,Redan,Young Knoll and Young Ln,1,0,N/A
+2397706,24-Aug-22,Florida,Gainesville,5200 NE 39th Ave,1,0,N/A
+2396391,24-Aug-22,Arizona,Phoenix,N 113th Ave and W Monterosa St,1,1,N/A
+2398601,26-Aug-22,West Virginia,Charleston (Sissonville),800 block of Second Creek Rd,1,0,N/A
+2401293,27-Aug-22,Florida,West Palm Beach,4300 San Marino Blvd,1,0,N/A
+2401464,28-Aug-22,Hawaii,Hawi,55-3478 Akoni Pule Hwy,1,0,N/A
+2400908,28-Aug-22,Alaska,Anchor Point,Shorebird Ln,1,0,N/A
+2400355,28-Aug-22,New York,Cambridge,51 S Park St,1,0,N/A
+2402171,29-Aug-22,Alabama,Huntsville,2800 block of Beard St,1,0,N/A
+2400857,29-Aug-22,Minnesota,Minneapolis,2425 Cole Ave SE,1,0,N/A
+2402876,31-Aug-22,Missouri,Saint Louis,956 Melvin Dr,1,0,N/A
+2405476,1-Sep-22,Ohio,Akron,813 Lovers Ln,1,0,N/A
+2403928,1-Sep-22,Indiana,Anderson,1200 block of Jonathon Ct,1,0,N/A
+2404903,2-Sep-22,New York,Corona (Queens),240-06 136th Ave,1,0,N/A
+2409391,4-Sep-22,Oklahoma,Tulsa,S Garnett Rd and E 21st St,1,0,N/A
+2407282,4-Sep-22,Indiana,Evansville,1856 S Garvin St,1,0,N/A
+2407412,5-Sep-22,Texas,Houston,4300 block of Steubner Hill Dr,1,0,N/A
+2412238,9-Sep-22,Texas,Fort Worth,6200 block of Hulen Bend Cir,1,0,N/A
+2411698,9-Sep-22,Nevada,Las Vegas,2675 W Agate Ave,1,0,N/A
+2411616,9-Sep-22,Maine,Guilford,N/A,1,0,N/A
+2418498,10-Sep-22,Illinois,Litchfield,N/A,1,0,N/A
+2415338,10-Sep-22,Tennessee,Mount Juliet,Glen Oaks Dr,1,0,N/A
+2413063,11-Sep-22,Tennessee,Millington,5000 block of Clear Creek Dr,1,0,N/A
+2413368,12-Sep-22,Virginia,Richmond,900 block of N 1st St,1,0,N/A
+2413777,13-Sep-22,Michigan,Detroit,8800 block of Heyden St,1,0,N/A
+2415825,14-Sep-22,Pennsylvania,Harrisburg,2100 block of Jefferson St,1,0,N/A
+2415724,14-Sep-22,Ohio,Beachwood (Warrensville Heights),4000 block of Clarkwood Pkwy,1,0,N/A
+2418295,16-Sep-22,Texas,Midland,I-20 and Loop 250,1,0,N/A
+2416717,16-Sep-22,New Jersey,Maple Shade,300 block of S Coles Ave,1,0,N/A
+2416715,16-Sep-22,New Jersey,Newark,200 block of Schley St,1,0,N/A
+2416174,16-Sep-22,North Carolina,Raleigh,7700 Old Wake Forest Rd,1,0,N/A
+2418129,17-Sep-22,Virginia,Roanoke,1500 block of Shamrock St,1,0,N/A
+2425335,21-Sep-22,Florida,Mulberry,3811 Laurel Crest Dr,1,0,N/A
+2421053,21-Sep-22,South Carolina,Spartanburg,4700 block of S Pine St,1,0,N/A
+2425950,23-Sep-22,South Carolina,Greer,Red Haven Ct,1,0,N/A
+2424332,23-Sep-22,California,South Lake Tahoe,700 block of James Ave,1,0,N/A
+2424073,24-Sep-22,Wisconsin,Milwaukee,6900 block of N 43rd St,1,0,N/A
+2423209,24-Sep-22,Michigan,Sterling Heights,43000 block of Frontenac Ave,1,0,N/A
+2424304,25-Sep-22,Virginia,Suffolk,200 block of Pine St,1,0,N/A
+2424013,25-Sep-22,Ohio,Saint Clairsville,139 N Market St,1,0,N/A
+2425936,27-Sep-22,Texas,San Angelo (Grape Creek),8200 block of Concho Dr W,1,0,N/A
+2426126,28-Sep-22,New York,Brooklyn,1225 Eastern Pkwy,1,0,N/A
+2430399,4-Oct-22,Arkansas,Little Rock,11700 block of Doe Run Dr,1,0,N/A
+2436459,6-Oct-22,Georgia,Savannah,525 Leonard Neal St,1,0,N/A
+2433217,8-Oct-22,Virginia,Roanoke,2700 block of Hoover St NW,1,0,N/A
+2440387,9-Oct-22,Georgia,Decatur,Glen Hollow Cir,1,0,N/A
+2434445,9-Oct-22,Minnesota,Motley,N/A,1,0,N/A
+2434598,10-Oct-22,Missouri,Saint Louis,3619 S Kingshighway Blvd,1,0,N/A
+2435562,11-Oct-22,Louisiana,Donaldsonville,Lessard St and Opelousas St,1,0,N/A
+2440451,12-Oct-22,Montana,Billings (Lockwood),US Hwy 87 E,1,0,N/A
+2439761,12-Oct-22,Kentucky,Redfox,325 Hale Branch Rd,1,0,N/A
+2436845,12-Oct-22,Arizona,Camp Verde,2910 S Old Church Rd,1,0,N/A
+2436296,12-Oct-22,Mississippi,Jackson,2010 Chadwick Dr,1,0,N/A
+2438202,14-Oct-22,Colorado,Westminster,Eaton St and W 92nd Ave,1,0,N/A
+2440614,15-Oct-22,Washington,Kennewick,800 block of Volland St,1,0,N/A
+2439878,15-Oct-22,Idaho,Lenore,S Dicks Creek Rd and Teakean Butte Rd,1,0,N/A
+2446743,16-Oct-22,Louisiana,Gibson,100 block of Tasha Ct,1,0,N/A
+2440421,16-Oct-22,South Carolina,Ridgeland,Lady Banks Dr,1,0,N/A
+2438918,16-Oct-22,North Carolina,Benson,901 W Watson Rd,1,0,N/A
+2439503,17-Oct-22,Texas,Colony,5151 N Colony Blvd,1,0,N/A
+2439460,17-Oct-22,Wisconsin,Green Bay,1600 block of Amy St,1,0,N/A
+2440698,18-Oct-22,Pennsylvania,Lancaster,529 Woodward St,1,0,N/A
+2441176,19-Oct-22,North Carolina,Clemmons,Hawk Ridge Dr,1,0,N/A
+2440896,19-Oct-22,Tennessee,Christiana,Link Rd,1,0,N/A
+2440710,19-Oct-22,Florida,Miami,17601 SW 8th St,1,0,N/A
+2442326,20-Oct-22,Arizona,Tucson,6000 block of N Featherstone Trail,1,0,N/A
+2446746,21-Oct-22,Wisconsin,Madison,7100 block of McKee Rd,1,0,N/A
+2445342,21-Oct-22,California,Salinas,1500 block of Antelope Dr,1,1,N/A
+2442581,21-Oct-22,Texas,Humble,6019 Velma Ln,1,0,N/A
+2443735,23-Oct-22,Ohio,Cincinnati,6120 Roe St,1,0,N/A
+2445309,24-Oct-22,Arizona,Mesa,E Southern Ave and Superstition Springs Mall Cir,1,0,N/A
+2444759,24-Oct-22,Illinois,Chicago,3600 block of S Rhodes Ave,1,0,N/A
+2444573,24-Oct-22,Texas,Houston,5535 Timber Creek Pl,1,0,N/A
+2446485,26-Oct-22,Illinois,Chicago,2600 block of W Potomac Ave,1,0,N/A
+2447771,27-Oct-22,California,Burlingame,200 block of Stanley Rd,1,0,N/A
+2447180,27-Oct-22,South Carolina,Effingham,5911 Hector Rd,1,0,N/A
+2446997,27-Oct-22,California,Oro Grande,National Trails Hwy and Mill St,1,0,N/A
+2451395,29-Oct-22,Florida,Holiday,US-19,1,0,N/A
+2448508,29-Oct-22,Pennsylvania,Erie,1611 Chestnut St,1,0,N/A
+2449272,30-Oct-22,Florida,Cape Coral,N/A,1,0,N/A
+2449112,30-Oct-22,North Carolina,Kinston,700 block of Vernon Ave,1,0,N/A
+2449307,31-Oct-22,Michigan,Saginaw,2780 Williamson Rd,1,0,N/A
+2456990,1-Nov-22,Nevada,Elko (county),N/A,1,0,N/A
+2452847,2-Nov-22,Texas,Brownsville,N/A,1,0,N/A
+2451860,2-Nov-22,Ohio,Mount Orab,14000 block of US-68,1,0,N/A
+2451849,2-Nov-22,Pennsylvania,Tamaqua,300 block of W Spruce St,1,0,N/A
+2451722,2-Nov-22,North Carolina,Charlotte,1900 Charleston Pl,1,0,N/A
+2451429,2-Nov-22,New Mexico,Albuquerque,6000 block of Anderson SE,1,0,N/A
+2454256,5-Nov-22,Georgia,Calhoun,Neal St,1,0,N/A
+2453800,5-Nov-22,Pennsylvania,Philadelphia,3100 block of N 33rd St,1,0,N/A
+2453651,5-Nov-22,New Mexico,Albuquerque,Tramway Blvd NE and Rover Ave NE,1,0,N/A
+2453550,5-Nov-22,Colorado,Denver,800 block of N Yates St,1,0,N/A
+2457515,8-Nov-22,Georgia,Haralson (county),N/A,1,0,N/A
+2456798,8-Nov-22,Idaho,Bancroft,Ivins Rd and Oregon Trail Rd,1,0,N/A
+2457463,10-Nov-22,Florida,Miami,665 Ives Dairy Rd,1,0,N/A
+2459987,11-Nov-22,Idaho,Idaho Falls,E 25th St and Woodruff Ave,1,0,N/A
+2457688,11-Nov-22,Indiana,South Bend,1300 block of Vassar Ave,1,0,N/A
+2458773,12-Nov-22,Georgia,Atlanta,875 Martin Luther King Jr Dr,1,0,N/A
+2458339,12-Nov-22,Arizona,Phoenix,44th St and Thunderbird Rd,1,0,N/A
+2459775,13-Nov-22,Florida,Naples,N/A,1,0,N/A
+2460130,14-Nov-22,Texas,Houston,215 Sunnyside St,1,0,N/A
+2459644,14-Nov-22,Indiana,Muncie,1523 S Burlington Dr,1,0,N/A
+2460644,15-Nov-22,Ohio,Dayton,3710 W 2nd St,1,0,N/A
+2461655,17-Nov-22,Utah,Salt Lake City (Taylorsville),1680 W Thornhill Dr,1,0,N/A
+2463011,18-Nov-22,Louisiana,New Roads,Pointe Coupee Rd and Saizon Rd,1,0,N/A
+2462919,19-Nov-22,Utah,Ogden,31st St and Adams Ave,1,0,N/A
+2470982,20-Nov-22,Illinois,Rockford,N/A,1,0,N/A
+2464247,20-Nov-22,Wisconsin,Berlin,N/A,1,0,N/A
+2464927,21-Nov-22,Tennessee,Memphis,2737 Curtis St,1,0,N/A
+2472066,22-Nov-22,Texas,Greenville,2100 block of Henry St,1,0,N/A
+2470805,24-Nov-22,West Virginia,Pocahontas (county),N/A,1,0,N/A
+2468663,25-Nov-22,Mississippi,Jackson,334 Audubon Place,1,0,N/A
+2468194,25-Nov-22,South Carolina,Enoree,Memory Ln,1,0,N/A
+2468075,25-Nov-22,Nebraska,Imperial,126 W 12th St,1,0,N/A
+2468956,26-Nov-22,Indiana,Hope,300 block of Elm St,1,0,N/A
+2470015,27-Nov-22,Missouri,Jefferson City,9014 Century Farms Rd,1,0,N/A
+2469039,27-Nov-22,Michigan,Detroit,16800 block of Mark Twain St,1,1,N/A
+2470049,28-Nov-22,Texas,Spring Branch,7900 block of Amelia Rd,1,0,N/A
+2469733,28-Nov-22,Kansas,Kansas City,3600 block of N 123rd St,1,0,N/A
+2470458,29-Nov-22,Florida,Miami,100 block of Sierra Dr,1,0,N/A
+2473023,1-Dec-22,Kentucky,Henderson,2045 US Hwy 41,1,0,N/A
+2489161,2-Dec-22,Alabama,Selma,1500 block of Highland Ave,1,0,N/A
+2473499,2-Dec-22,Illinois,Chicago,200 block of S Cicero Ave,2,1,N/A
+2473553,3-Dec-22,Florida,Palm Bay,700 block of Damascus Ave,1,0,N/A
+2475281,5-Dec-22,California,Azusa,17700 block of E Newburgh St,1,0,N/A
+2475720,6-Dec-22,New York,Syracuse,573 Delaware St,1,0,N/A
+2478983,11-Dec-22,Alabama,Huntsville,400 block of Julia St,1,0,N/A
+2486240,13-Dec-22,Illinois,Aurora,1400 block of Exposition Ave,1,0,N/A
+2480067,13-Dec-22,North Carolina,Gastonia,107 Cindy Ln,1,0,N/A
+2480737,14-Dec-22,South Carolina,North Charleston,Rivers Ave and Dalton St,1,0,N/A
+2486284,15-Dec-22,Mississippi,Vossburg,County Road 39,1,0,N/A
+2483150,16-Dec-22,Florida,Lakeland,5500 block of Starling Loop,1,0,N/A
+2482655,16-Dec-22,Michigan,Hamtramck,2024 Caniff St,1,0,N/A
+2484508,17-Dec-22,Indiana,Bloomfield,S Strauser Rd,1,0,N/A
+2483707,17-Dec-22,California,Fresno,1200 block of N Cornelia Ave,1,0,N/A
+2485158,19-Dec-22,Texas,San Angelo,1300 block of Tres Rios Cir,1,0,N/A
+2484522,19-Dec-22,South Carolina,Hopkins,1000 block of Weston Rd,1,0,N/A
+2485849,20-Dec-22,Illinois,Chicago,2900 W Redfield Dr,1,0,N/A
+2486455,21-Dec-22,Missouri,Kansas City,8100 block of N Denver Ave,1,0,N/A
+2488417,24-Dec-22,Texas,Grand Prairie,2900 block of Alouette Dr,1,0,N/A
+2488004,24-Dec-22,Missouri,Kansas City,7800 block of James A Reed Rd,1,0,N/A
+2487579,24-Dec-22,Colorado,Colorado Springs,4800 block of Rusty Nail Pt,1,0,N/A
+2487980,25-Dec-22,West Virginia,Eskdale,1250 Decota Rd,1,0,N/A
+2489495,26-Dec-22,South Carolina,Ridgeway,500 block of Shivers Green Rd,1,0,N/A
+2488586,26-Dec-22,New York,New York (Manhattan),Dyckman St and Vermilyea Ave,1,0,N/A
+2489451,27-Dec-22,Pennsylvania,Allentown,600 block of N Front St,1,0,N/A
+2489063,27-Dec-22,Missouri,Springfield,4300 block of W Helen St,1,0,N/A
+2490541,28-Dec-22,Kentucky,Georgetown,300 block of Young St,1,0,N/A
+2490421,28-Dec-22,Texas,Houston,2118 River Village Dr,1,0,N/A
+2490348,28-Dec-22,Tennessee,New Tazewell,400 block of Doe Ct,1,0,N/A
+2491495,29-Dec-22,Michigan,Grand Rapids,Delaware St SE and Madison Ave SE,1,0,N/A
+2490847,29-Dec-22,California,Pittsburg,Suzanne Dr and Buchanan Rd,1,0,N/A
+2490677,29-Dec-22,Tennessee,Cleveland,Michigan Ave,1,0,N/A
+2490637,29-Dec-22,Florida,Boynton Beach,1221 Mentone Rd,1,0,N/A
+2490451,29-Dec-22,Missouri,Lucerne,US Hwy 136,1,0,N/A
+2492079,31-Dec-22,Kentucky,Guthrie,Locust St,1,0,N/A

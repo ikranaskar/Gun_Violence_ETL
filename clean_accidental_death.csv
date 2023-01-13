@@ -1,0 +1,449 @@
+,State,accidental_gun_killed
+0,Texas,1
+1,Louisiana,1
+2,Arkansas,1
+3,Mississippi,1
+4,Mississippi,1
+5,Arizona,1
+6,Louisiana,1
+7,North Carolina,1
+8,Kentucky,1
+9,Alabama,1
+10,Tennessee,1
+11,Georgia,1
+12,Florida,1
+13,Arizona,1
+14,Texas,1
+15,Oklahoma,1
+16,Wisconsin,1
+17,Ohio,1
+18,Missouri,1
+19,Missouri,1
+20,Tennessee,1
+21,Iowa,1
+22,Maryland,1
+23,District of Columbia,1
+24,North Carolina,1
+25,Washington,1
+26,Alabama,1
+27,Louisiana,1
+28,Florida,1
+29,Texas,0
+30,Utah,1
+31,Michigan,2
+32,Wisconsin,1
+33,Washington,1
+34,Illinois,1
+35,Georgia,1
+36,Mississippi,1
+37,Louisiana,1
+38,Texas,1
+39,Texas,1
+40,Georgia,1
+41,Indiana,1
+42,Kansas,1
+43,Texas,1
+44,Indiana,1
+45,Texas,1
+46,Oregon,2
+47,Texas,1
+48,Alabama,1
+49,Alabama,1
+50,District of Columbia,1
+51,District of Columbia,1
+52,Michigan,1
+53,Nevada,1
+54,Mississippi,1
+55,Rhode Island,1
+56,North Carolina,1
+57,Alabama,1
+58,Texas,1
+59,Arizona,1
+60,California,1
+61,Ohio,1
+62,Texas,1
+63,Texas,1
+64,Texas,2
+65,Georgia,1
+66,Georgia,1
+67,Georgia,1
+68,Indiana,1
+69,Georgia,1
+70,Pennsylvania,1
+71,Arizona,1
+72,Texas,1
+73,New York,1
+74,Texas,1
+75,Alabama,1
+76,Nevada,1
+77,Tennessee,1
+78,Missouri,1
+79,Tennessee,1
+80,Illinois,1
+81,Illinois,1
+82,Nebraska,1
+83,Louisiana,1
+84,Pennsylvania,1
+85,Alaska,1
+86,Tennessee,1
+87,Texas,1
+88,Texas,1
+89,Ohio,1
+90,California,1
+91,Louisiana,1
+92,Ohio,1
+93,Tennessee,1
+94,Minnesota,1
+95,Ohio,1
+96,Texas,1
+97,Missouri,2
+98,Tennessee,1
+99,Georgia,1
+100,Texas,1
+101,Missouri,1
+102,Texas,1
+103,Washington,1
+104,Louisiana,1
+105,Arizona,1
+106,Florida,1
+107,Florida,1
+108,Mississippi,1
+109,Pennsylvania,1
+110,Tennessee,1
+111,Texas,1
+112,Oklahoma,1
+113,Texas,1
+114,Texas,1
+115,Ohio,1
+116,Georgia,1
+117,Montana,1
+118,Texas,1
+119,Idaho,1
+120,Texas,1
+121,Colorado,1
+122,Georgia,1
+123,Alabama,1
+124,North Carolina,1
+125,Louisiana,1
+126,New York,1
+127,Nevada,1
+128,Texas,1
+129,Ohio,1
+130,Minnesota,1
+131,New York,1
+132,Colorado,1
+133,Minnesota,1
+134,Indiana,1
+135,Texas,1
+136,Louisiana,1
+137,Texas,1
+138,South Carolina,1
+139,Minnesota,1
+140,Louisiana,1
+141,Minnesota,1
+142,Indiana,1
+143,Nebraska,1
+144,Louisiana,1
+145,Arkansas,1
+146,Texas,1
+147,Texas,1
+148,Georgia,1
+149,Florida,1
+150,New York,1
+151,Alabama,1
+152,Texas,1
+153,Ohio,1
+154,Washington,1
+155,Texas,1
+156,North Carolina,1
+157,Tennessee,1
+158,Texas,1
+159,North Carolina,1
+160,Arizona,1
+161,Ohio,1
+162,Wisconsin,1
+163,Colorado,1
+164,Iowa,1
+165,New York,1
+166,Arizona,1
+167,Delaware,1
+168,Louisiana,1
+169,Ohio,1
+170,North Carolina,1
+171,Arizona,1
+172,Utah,1
+173,Colorado,1
+174,Arizona,1
+175,Georgia,1
+176,West Virginia,1
+177,Oklahoma,1
+178,Florida,1
+179,Washington,1
+180,Indiana,1
+181,Michigan,1
+182,Texas,1
+183,Ohio,1
+184,Alabama,1
+185,Louisiana,1
+186,Michigan,1
+187,North Carolina,1
+188,South Carolina,1
+189,Ohio,1
+190,Texas,1
+191,Ohio,1
+192,Texas,1
+193,Ohio,1
+194,Texas,2
+195,Alabama,1
+196,Florida,1
+197,Tennessee,1
+198,Wisconsin,1
+199,South Carolina,1
+200,Mississippi,1
+201,Texas,1
+202,New Jersey,1
+203,District of Columbia,1
+204,Tennessee,1
+205,Louisiana,1
+206,Michigan,1
+207,South Carolina,1
+208,North Carolina,1
+209,West Virginia,1
+210,Florida,1
+211,Texas,1
+212,Missouri,1
+213,Kentucky,1
+214,Texas,1
+215,Missouri,1
+216,North Carolina,1
+217,Pennsylvania,1
+218,Wisconsin,1
+219,Virginia,1
+220,Virginia,1
+221,Texas,1
+222,Ohio,1
+223,Ohio,1
+224,Georgia,1
+225,Tennessee,1
+226,North Carolina,1
+227,Louisiana,1
+228,Alabama,1
+229,Tennessee,1
+230,Michigan,1
+231,Oklahoma,1
+232,Arkansas,1
+233,Colorado,1
+234,Wisconsin,1
+235,Indiana,1
+236,Florida,1
+237,Florida,1
+238,Michigan,1
+239,Missouri,1
+240,South Carolina,1
+241,Florida,1
+242,Michigan,1
+243,Washington,1
+244,South Carolina,1
+245,Illinois,1
+246,Indiana,1
+247,Pennsylvania,1
+248,Idaho,1
+249,Florida,1
+250,Texas,1
+251,Texas,1
+252,Ohio,1
+253,Arizona,1
+254,West Virginia,1
+255,Maryland,1
+256,Wisconsin,1
+257,New Mexico,1
+258,District of Columbia,1
+259,Alabama,1
+260,Mississippi,1
+261,Texas,1
+262,Maryland,1
+263,Colorado,1
+264,Texas,1
+265,Georgia,1
+266,Minnesota,1
+267,New Jersey,1
+268,Texas,1
+269,New York,1
+270,Texas,1
+271,Wisconsin,1
+272,Georgia,1
+273,Virginia,1
+274,North Dakota,1
+275,Arkansas,1
+276,Florida,1
+277,Oklahoma,1
+278,Tennessee,1
+279,Delaware,1
+280,Florida,1
+281,Indiana,1
+282,Pennsylvania,1
+283,Maryland,1
+284,California,1
+285,Mississippi,1
+286,Florida,1
+287,Ohio,1
+288,California,1
+289,Michigan,1
+290,Michigan,1
+291,Tennessee,1
+292,Georgia,1
+293,Florida,1
+294,Arizona,1
+295,West Virginia,1
+296,Florida,1
+297,Hawaii,1
+298,Alaska,1
+299,New York,1
+300,Alabama,1
+301,Minnesota,1
+302,Missouri,1
+303,Ohio,1
+304,Indiana,1
+305,New York,1
+306,Oklahoma,1
+307,Indiana,1
+308,Texas,1
+309,Texas,1
+310,Nevada,1
+311,Maine,1
+312,Illinois,1
+313,Tennessee,1
+314,Tennessee,1
+315,Virginia,1
+316,Michigan,1
+317,Pennsylvania,1
+318,Ohio,1
+319,Texas,1
+320,New Jersey,1
+321,New Jersey,1
+322,North Carolina,1
+323,Virginia,1
+324,Florida,1
+325,South Carolina,1
+326,South Carolina,1
+327,California,1
+328,Wisconsin,1
+329,Michigan,1
+330,Virginia,1
+331,Ohio,1
+332,Texas,1
+333,New York,1
+334,Arkansas,1
+335,Georgia,1
+336,Virginia,1
+337,Georgia,1
+338,Minnesota,1
+339,Missouri,1
+340,Louisiana,1
+341,Montana,1
+342,Kentucky,1
+343,Arizona,1
+344,Mississippi,1
+345,Colorado,1
+346,Washington,1
+347,Idaho,1
+348,Louisiana,1
+349,South Carolina,1
+350,North Carolina,1
+351,Texas,1
+352,Wisconsin,1
+353,Pennsylvania,1
+354,North Carolina,1
+355,Tennessee,1
+356,Florida,1
+357,Arizona,1
+358,Wisconsin,1
+359,California,1
+360,Texas,1
+361,Ohio,1
+362,Arizona,1
+363,Illinois,1
+364,Texas,1
+365,Illinois,1
+366,California,1
+367,South Carolina,1
+368,California,1
+369,Florida,1
+370,Pennsylvania,1
+371,Florida,1
+372,North Carolina,1
+373,Michigan,1
+374,Nevada,1
+375,Texas,1
+376,Ohio,1
+377,Pennsylvania,1
+378,North Carolina,1
+379,New Mexico,1
+380,Georgia,1
+381,Pennsylvania,1
+382,New Mexico,1
+383,Colorado,1
+384,Georgia,1
+385,Idaho,1
+386,Florida,1
+387,Idaho,1
+388,Indiana,1
+389,Georgia,1
+390,Arizona,1
+391,Florida,1
+392,Texas,1
+393,Indiana,1
+394,Ohio,1
+395,Utah,1
+396,Louisiana,1
+397,Utah,1
+398,Illinois,1
+399,Wisconsin,1
+400,Tennessee,1
+401,Texas,1
+402,West Virginia,1
+403,Mississippi,1
+404,South Carolina,1
+405,Nebraska,1
+406,Indiana,1
+407,Missouri,1
+408,Michigan,1
+409,Texas,1
+410,Kansas,1
+411,Florida,1
+412,Kentucky,1
+413,Alabama,1
+414,Illinois,2
+415,Florida,1
+416,California,1
+417,New York,1
+418,Alabama,1
+419,Illinois,1
+420,North Carolina,1
+421,South Carolina,1
+422,Mississippi,1
+423,Florida,1
+424,Michigan,1
+425,Indiana,1
+426,California,1
+427,Texas,1
+428,South Carolina,1
+429,Illinois,1
+430,Missouri,1
+431,Texas,1
+432,Missouri,1
+433,Colorado,1
+434,West Virginia,1
+435,South Carolina,1
+436,New York,1
+437,Pennsylvania,1
+438,Missouri,1
+439,Kentucky,1
+440,Texas,1
+441,Tennessee,1
+442,Michigan,1
+443,California,1
+444,Tennessee,1
+445,Florida,1
+446,Missouri,1
+447,Kentucky,1
