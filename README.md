@@ -1,6 +1,6 @@
 
 
-# title: Gun Violence in USA 
+# Title: Gun Violence in USA 
 
 # Group members: Ikran Askar and Salieu Barrie
 
